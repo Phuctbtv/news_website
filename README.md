@@ -1,2 +1,2 @@
 # Ảnh Trang chủ
-![anh_1](image.png)
+![alt text](bg-1.png)
