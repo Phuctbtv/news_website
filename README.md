@@ -1,2 +1,2 @@
-# Ảnh minh hoạ
-![Giao diện](screenshots/image.png)
+# Ảnh Trang chủ
+![anh_1](image.png)
