@@ -1,20 +1,26 @@
+
 <div class="box__contract">
-    <a class="icon__hover" href="">
+    <!-- Email -->
+    <a class="icon__hover" href="mailto:phamdaiphuc20003@gmail.com">
         <div class="icon__contract icon__mail">
             <i class="contract_hover fas fa-envelope"></i>
-            <a class="contract__icon_hide" href="d">Email</a>
+            <span class="contract__icon_hide">Email</span>
         </div>
     </a>
-    <a class="icon__hover" href="">
+
+    <!-- Phone/Zalo -->
+    <a class="icon__hover" href="https://zalo.me/0367348026" target="_blank">
         <div class="icon__contract icon__mail">
-            <i class="contract_hover  fas fa-phone"></i>
-            <a class="contract__icon_hide" href="">Phone</a>
+            <i class="contract_hover fas fa-phone"></i>
+            <span class="contract__icon_hide">Zalo</span>
         </div>
     </a>
-    <a class="icon__hover" href="">
+
+    <!-- Facebook -->
+    <a class="icon__hover" href="https://www.facebook.com/phamphuc.utc" target="_blank">
         <div class="icon__contract icon__mail">
             <i class="contract_hover fab fa-facebook-f"></i>
-            <a class="contract__icon_hide" href="">Facebook</a>
+            <span class="contract__icon_hide">Facebook</span>
         </div>
     </a>
 </div>
