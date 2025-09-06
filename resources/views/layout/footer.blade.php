@@ -9,12 +9,12 @@
                         <p>{{($about!=null)? $about->address:""}}</p>
                         <span class="footer__title footer__title--p0">Văn phòng đại diện</span>
                         <div class="footer__branch">
-                            <p class="footer__branch--title">Chi nhánh đà nẵng</p>
-                            <p>5-6 Nguyễn Văn Linh, Nam Dương, Hải Châu, Đà Nẵng</p>
+                            <p class="footer__branch--title">Chi nhánh Thái Bình</p>
+                            <p>Phạm Phúc</p>
                         </div>
                         <div class="footer__branch">
                             <p class="footer__branch--title">Chi nhánh đà nẵng</p>
-                            <p>5-6 Nguyễn Văn Linh, Nam Dương, Hải Châu, Đà Nẵng</p>
+                            <p>Phạm Phúc</p>
                         </div>
                     </div>
                 </div>
@@ -52,11 +52,11 @@
                 <div class="col-12 col-lg-3 col-xl-3 col-md-6 col-sm-12">
                     <div class="nav__menu--footer">
                         <span class="footer__title">Fanpage</span>
-                        <div class="fb-page" data-href="https://www.facebook.com/bandamau/" data-tabs="timeline"
+                        <div class="fb-page" data-href="https://www.facebook.com/manchesterunited/" data-tabs="timeline"
                             data-width="350" data-height="auto" data-small-header="false"
                             data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                            <blockquote cite="https://www.facebook.com/bandamau/" class="fb-xfbml-parse-ignore">
-                                <a href="https://www.facebook.com/bandamau/">Bạn Da Màu</a>
+                            <blockquote cite="https://www.facebook.com/manchesterunited/" class="fb-xfbml-parse-ignore">
+                                <a href="https://www.facebook.com/manchesterunited/">Phúc fan ManUTD</a>
                             </blockquote>
                         </div>
                     </div>
@@ -68,6 +68,6 @@
     </div>
     <div class="copyright">
         <i class="fa fa-copyright" aria-hidden="true"></i>
-        Bản quyền thuộc về <a target="_blank" href="{{($about!=null)? $about->linkfb :""}}">BìnhNT</a> | Cung cấp bởi <a href="">Sapo</a>
+        Bản quyền thuộc về <a target="_blank" href="{{($about!=null)? $about->linkfb :""}}">CrisPham(Phạm Phúc)</a> | Cung cấp bởi <a href="">ManUTD</a>
     </div>
 </div>
