@@ -33,7 +33,7 @@ Dự án website tin tức được xây dựng với **Laravel + MySQL**, giao 
 ![Đăng nhập](public/loginform/images/dangnhap.png)
 
 ### 3️⃣ Trang đăng ký
-![Đăng ký](public/loginform/images/sign up.png)
+![Đăng ký](public/loginform/images/sign%20up.png)
 
 ### 4️⃣ Reset mật khẩu
 ![Reset Password](public/loginform/images/resetpassword.png)
