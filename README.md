@@ -39,7 +39,7 @@ Dự án website tin tức được xây dựng với **Laravel + MySQL**, giao 
 ![Reset Password](public/loginform/images/resetpassword.png)
 
 ### 5️⃣ Sign Up
-![Sign Up](public/loginform/images/sign up.png)
+![Sign Up](public/loginform/images/sign%20up.png)
 
 ### 6️⃣ Trang Admin
 ![Admin](public/loginform/images/trang_admin.png)
