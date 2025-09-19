@@ -56,9 +56,16 @@ Dự án website tin tức được xây dựng với **Laravel + MySQL**, giao 
 ---
 
 ## 🛠️ Công nghệ sử dụng
-- **Backend:** PHP (Laravel Framework)  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</p>
+ 
 ## 👨‍💻 Tác giả
 - **Tên:** Phúc  
 - 📧 Email: phamdaiphuc20003@gmail.com  
